@@ -1,4 +1,4 @@
-# codeWars
-Problems from codewars web site
+### codeWars ![alt text](https://www.codewars.com/users/VladimirMastepanov/badges/micro)
+___
 
-![alt text](https://www.codewars.com/users/VladimirMastepanov/badges/large)
+Problems from codewars web site
